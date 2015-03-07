@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It sets up the .git directory and starts to set stuff up
+
+
