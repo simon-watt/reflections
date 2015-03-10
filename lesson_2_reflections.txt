@@ -15,3 +15,17 @@ What are some situations when branches would be helpful in keeping your history 
 
 If you want more than one version. Maybe a experimental version.
 
+How do the diagrams help you visualize the branch structure?
+
+It allows us to see what branches are reachable from our current position.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It closes the circuit and moves the master to the merge point
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging makes life easier. Manual merge are a bit more tedious but
+necessary.
+
+
